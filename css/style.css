@@ -10,7 +10,7 @@ body {
     margin: 0 24px;
 }
 
-.page-main .container {
+main .container {
     display: flex;
     max-width: 1110px;
     margin: 120px auto;
